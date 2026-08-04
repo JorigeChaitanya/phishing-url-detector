@@ -78,6 +78,10 @@ def menu():
         elif choice == "3":
 
             sync_to_github()
+
+        elif choice == "4":
+
+            print("Goodbye!")
             break
 
         else:
