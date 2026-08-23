@@ -7,3 +7,12 @@ timestamp,url,score,verdict
 2026-08-06 23:40:38.569974,http://192.168.1.100/login,50,SUSPICIOUS
 2026-08-06 23:41:31.047957,http://paypal-login-security.tk/login,40,SUSPICIOUS
 2026-08-06 23:42:10.634475,http://www.google.com,15,SAFE
+2026-08-23 18:31:15.895309,https://microsoft.com,0,SAFE
+2026-08-23 18:32:18.392854,http://microsoft/login,20,SAFE
+2026-08-23 18:32:58.449019,http://19.168.1.100/login,50,SUSPICIOUS
+2026-08-23 18:34:05.914669,https://paypal.xyz,20,SAFE
+2026-08-23 19:44:08.873937,https://microsoft/login,5,SAFE
+2026-08-23 19:44:40.765769,http://pay-pal.ac.in,15,SAFE
+2026-08-23 19:45:44.554204,http://198.168.1.100.login,40,SUSPICIOUS
+2026-08-23 19:46:39.633113,http://https:/paypal.loginsecurity.tls/login,20,SAFE
+2026-08-23 19:47:06.665461,http://paypal-login-security.tk/login,40,SUSPICIOUS
